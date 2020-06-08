@@ -15,7 +15,9 @@ tags:
 author: estambolieva
 ---
 
-I did my first investment 2 years ago. It was a failure from my personal finances point of view. I invested €14 000 of my own money and I could not recover €13 200 from it. It was a success from raising equity-free funding and in being an employer.
+I invested for the first time 2 years ago. It was my starup which I co-founder with 2 other people. I was both an investor and a manager of the company. 
+
+This investment was a success in raising equity-free funding and in teaching me how to be an employer. It was a success from a learning perspective - to become a better manager and to learn how to create a business system which survives. It was a failure from my personal finances point of view. I invested €14 000 of my own money and I could not recover €13 200 from it. Yet, in conclusion, it was a success. 
 
 
 #### Raising money
@@ -26,20 +28,20 @@ We received a grant of €50 000 from [ESA BIC Portugal](https://space.ipn.pt/) 
 
 We raised €150 000 from [Fit4Start](https://www.startupluxembourg.com/fit-4-start) in Luxembourg in the second year.
 
-In total, we raised €200 000. This was good pre-seed money we managed to raise and we exchanged no equity for it. 
+In total, we raised €200 000. This was good pre-seed money and we exchanged no equity for it. 
 
-A founder's conflict developed in the meantime (read more about it [here](http://katstam.com/how-i-walked_away-from-eur-152500/) if you are interested). Because of it the best desicion for us to take to protect the money of our investors was never to request €152 500.
+A founder's conflict developed in the meantime (read more about it [here](http://katstam.com/how-i-walked_away-from-eur-152500/) if you are interested). Because of it the best desicion for us to take to protect the money of our investors was never to request a big part of this money - namely €152 500.
 
 This is what we did with the €37 500 we did receive.
 
 
 #### Creting Jobs
 
-We created 4 high-qualified personnel jobs with the money we have received and I am proud of it.
+We created 4 high-qualified personnel jobs with this money and I am proud of it.
 
-We paid €24 455 in salaries, €1 965,6 in social security, €2 745 in IRS and €3 600 in company taxes.
+Financially speaking, we paid €24 455 in salaries, €1 965,6 in social security, €2 745 in IRS and €3 600 in company taxes.
 
 
 #### Personal money
 
-Every investment is a risk taken. Some investments are also risky - as building a startup is. This is exactly what I did - and I could not recover the money I had invested in my startup. My loss was €13 200 and that's okay. Some investments multiply the money invested and some lose it.
+Every investment is a calculated risk. Some investments are also risky - as building a startup is. I decided to build a startup - and because one of the two most common startups problems developed I could not recover the money I had invested in the company. My loss was €13 200 and that's okay. Some investments multiply the money invested and some lose it while the investor gets smarter. I got smarter. 
