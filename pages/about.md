@@ -9,7 +9,9 @@ permalink: /about/
 
 # Who I am 
 
-My name is Ekaterina Stambolieva - and I am a serial impact entrepreneur, and a female space tech founder. 
+> Hi, my name is Ekaterina Stambolieva and people call me Katia. At the age of 30 I achieved my childhood dream to become a business woman. My goal for the next 30 years is to become the next Marie Curie. I win 2 Nobel Prizes - one in economics, and one in Peace.
+
+I am a serial impact entrepreneur, and a female space tech founder. 
 
 Drop me a message at *estambolieva (at) gmail (dot) com*.
 
