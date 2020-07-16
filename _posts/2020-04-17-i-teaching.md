@@ -16,6 +16,8 @@ author: estambolieva
 
 Here is my most recent tutoring experience:
 
+* a data science trainer at [Asigmo](https://www.asigmo.com/team) - a 7-week long course to help small groups of professionals get ready for a carreer in data science. Vienna-based. This is the [program](https://www.asigmo.com/program) of the course.
+
 * teaching assistant in programming for `Algorithms: Design and Analysis` by [Stanford](https://www.coursera.org/specializations/algorithms) and Tim Roughgarden on Coursera
 
 
