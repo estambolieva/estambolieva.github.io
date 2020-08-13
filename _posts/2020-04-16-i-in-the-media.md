@@ -30,6 +30,8 @@ My work as a consultant to Amnesty International to build a classified to detect
 
 My work on my space tech startup covered in different online newspapers: 
 
+*13 08 2020* [The Story of Nina Space](https://medium.com/@womeninai_nl/the-story-of-nina-space-b07377d3156a) in English. This article has been written and posted by the lovely people who support our journey during the [WAI Accelerate](https://www.womeninai.co/waiaccelerate) program.
+
 *15 11 2019*: [Nina Space Prevents Wildfires By Analyzing Satellite Images](https://www.siliconluxembourg.lu/nina-space-prevents-wildfires-by-analyzing-satellite-images/) in English
 
 *05 10 2019*: [A Brazilian and  a Bulgarian lady enter a bar, and a space tech startup is born](https://www.tsf.pt/portugal/sociedade/uma-brasileira-e-uma-bulgara-entram-num-bar-sai-startup-que-previne-fogos-a-partir-do-espaco-11373989.html) in Portuguese
