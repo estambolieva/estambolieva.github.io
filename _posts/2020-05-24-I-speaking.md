@@ -19,6 +19,11 @@ author: estambolieva
 ### 2020
 
 
+
+*04 09 2020*: AI to prevent megafires, social entrepreneurship and how to start an AI business - Episode 1, Season 2, [AI Game Changers Podcast](http://www.buzzsprout.com/1064803).
+
+![Podcast Image](https://github.com/estambolieva/estambolieva.github.io/raw/master/assets/img/uploads/I_speaking/AI_game_changers.jpeg)
+
 *10 06 2020*: Tech Saves The World: a Space-Tech Case Study on Fighting Climate Change - a session talk at [Women Tech Global Conference 2020](https://www.womentech.net/women-tech-conference). This is my [speaker's profile](https://www.womentech.net/speaker/Ekaterina/Stambolieva) for the conference.
 
 ![Conference Image](https://github.com/estambolieva/estambolieva.github.io/raw/master/assets/img/uploads/I_speaking/WTGC_2020.png)
