@@ -12,7 +12,7 @@ tags:
 author: estambolieva
 ---
 
-I recently needed to send a 3-paragraph bio of mine to WAIHOE - the [WAI](https://www.womeninai.co/) award for *Women in AI Heroes*. This is what I wrote:
+I recently needed to send a 3-paragraph bio of mine to WAIROE - the [WAI](https://www.womeninai.co/) award for *Women in AI Heroes*. This is what I wrote:
 
 -------------------
 Hi, my name is Katia (short of Ekaterina). I am a serial impact entrepreneur, and a female space tech founder.
