@@ -18,6 +18,7 @@ author: estambolieva
 
 ### 2020
 
+*03 10 2020* Part of the AI/ML Panel on [IvyHacks](https://ivyhacks.com/) *Building Bridges, Breaking Barriers*, which is co-hosted by 6 Ivy League Universities - Harvard, Princeton, Brown, Cornwell, Dartmouth and Columbia.  
 
 *16-18 09 2020* Ask-Me-Anything on Wildfires (read my answers [here](http://katstam.com/ask-me-anything-wildfires/)) with me and Dr. Eric Rowell by invitation of the Climate Change School [Terra.do](https://www.terra.do/)
 
