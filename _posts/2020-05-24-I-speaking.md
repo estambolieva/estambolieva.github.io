@@ -19,7 +19,7 @@ author: estambolieva
 ### 2020
 
 
-*16-18 09 2020* Ask-Me-Anything on Wildfires (read my answers here[](http://katstam.com/ask-me-anything-wildfires/)) with me and Dr. Eric Rowell by invitation of the Climate Change School [Terra.do](https://www.terra.do/)
+*16-18 09 2020* Ask-Me-Anything on Wildfires (read my answers [here](http://katstam.com/ask-me-anything-wildfires/)) with me and Dr. Eric Rowell by invitation of the Climate Change School [Terra.do](https://www.terra.do/)
 
 ![AMA Wildfires Image](https://github.com/estambolieva/estambolieva.github.io/raw/master/assets/img/uploads/I_speaking/Terrado_AMA_wildfires.jpg)
 
