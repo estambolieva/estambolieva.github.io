@@ -2,8 +2,7 @@
 date: 2020-03-21 10:00:00
 layout: post
 title: How I walked away from € 152 500 Part 2
-subtitle: This is what happened to my startup project in its first 2 years of existence.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: 
 image: https://images.unsplash.com/photo-1519744792095-2f2205e87b6f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80
 <!-- optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg -->
 category: startup
@@ -17,7 +16,7 @@ This is a four-part story, with links to each part here:
 1. [Dream](http://katstam.com/how-i-walked_away-from-eur-152500/)
 2. [Success](http://katstam.com/how-i-walked_away-from-eur-152500-part-2/)
 3. [Horror](http://katstam.com/how-i-walked_away-from-eur-152500-part-3/)
-4. [Aftermath and Thank you](http://katstam.com/how-i-walked_away-from-eur-152500-part-4/)
+4. [Drive and Thank you](http://katstam.com/how-i-walked_away-from-eur-152500-part-4/)
 
 You are currently reading [Part 2](http://katstam.com/how-i-walked_away-from-eur-152500-part-2/). If you wish to read the story from the start, please begin [here](http://katstam.com/how-i-walked_away-from-eur-152500/).
 
