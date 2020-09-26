@@ -17,9 +17,8 @@ author: estambolieva
 
 ### Intro
 
-A cleint approached me to replicate the work done in [this article](https://www.researchgate.net/publication/309827179_Waiting_to_Be_Sold_Prediction_of_Time-Dependent_House_Selling_Probability) - *Waiting to be sold: Prediction of time-Dependent House Selling Porbability*. The awesome things about this job was that the piece of software I would produce would be incorporated in my cleint's platform and used on a daily basis by their users.
-
-I quite like it when some academic research can be translated into a successful real-life application. 
+I was reading [this article](https://www.researchgate.net/publication/309827179_Waiting_to_Be_Sold_Prediction_of_Time-Dependent_House_Selling_Probability) - *Waiting to be sold: Prediction of time-Dependent House Selling Porbability*.
+I loved reading about the data science approach taken to predict when a house would be sold on an online webpage - and I just had to explore more :) . 
 
 *tldr*
 
@@ -66,13 +65,6 @@ If the goal is to predict the number of days a patient might live after they sta
 Instead of predicting how many days would a patient live, what is predicted is the percentage of all patients who are still alive at incremental time periods - e.g. % of patients alvie after 6 months, 1 year, 1 year 2 months, 1 year 4 motnhs, etc., from the beginning of the trail.
 
 Survival analysis then can be applied to many other mundane real-life problems such as house sale (real estate), employee retention (HR), customer subscirption lifespan (sales), economics, insurance and others. Read more about it in the [links](http://katstam.com/waiting-to-be-sold/#reading) I have shared at the bottom of the page.
-
-
-### Data
-
-The data used for the experiments in predicting the probability of a house being sold at a given time has been provided to me and I cannot share online. 
-
-A good starting point is always to email the authors of the paper and ask personally for the data to be shared. :)
 
 
 ### Related
