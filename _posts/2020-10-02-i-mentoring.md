@@ -1,9 +1,10 @@
+---
 date: 2020-10-02 15:30:00
 layout: post
 title: I mentoring
 subtitle:
 description: 
-image: https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/I_speaking/Katia_New_Space.png
+image: https://images.unsplash.com/photo-1490111718993-d98654ce6cf7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 category: portfolio
 tags:
   - mentoring
@@ -19,7 +20,7 @@ I am one of the 10 Judges of the [#BuildBackBetter Challenge](https://www.womeni
 
 *Gender inequities in global health security are undermining the response to the COVID-19 pandemic and the achievement of health for all. Strong health systems that can withstand the next global health crisis must be built on equality, and gender equality is fundamental. Strong health systems harness the best possible talent, expertise and diverse perspectives in decision making. Currently, women are the vast majority of health and social care workers but largely excluded from decision making, to the detriment of everybody's health.*
 
-[Women in Digital Health and AI Judge](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/Women_Digital_Heatlh_Judge.jpeg)
+![Women in Digital Health and AI Judge](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/Women_Digital_Heatlh_Judge.jpeg)
 
 ---
 
