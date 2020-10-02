@@ -31,11 +31,13 @@ I am one of the 10 Judges of the [#BuildBackBetter Challenge](https://www.womeni
 Mentor at [Terra.do](https://www.terra.do/)
 
 *About mentoring*
+
 I am one of the +40 individuals across the world who have the privilege to mentor the 2nd cohort of Terra.do on topics such as investment, technology, marketing/design, and entrepreneurship.
 The 2nd cohort consists of 59 professionals from 8 different countries.
 
 
 *About Terra.do*
+
 We're an online climate school aiming to solve #climatechange.
 Terra.do selects talented individuals who care deeply about climate, take them through an intensive 12-week online bootcamp taught by top experts and then get them to work with high-impact climate projects or organizations that can leverage their skills.
 
@@ -47,8 +49,10 @@ Mentor at [Femgems Club](https://www.femgems.club/)
 
 
 *About mentoring*
+
 providing mentorship to entrepreneurs in the areas of #socialimpact, #hiring, #productdevelopment and #innovation 
 
 
 *About FemGems Club*
+
 FemGems Club is a result-driven support system for early stage female founders
