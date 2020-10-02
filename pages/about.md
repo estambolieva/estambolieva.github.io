@@ -25,6 +25,10 @@ Find all links and citations [here](http://katstam.com/i-in-the-media/).
 
 Find all links and short descriptions of my most recent presentations [here](http://katstam.com/I-speaking/).
 
+### My mentoring engagements
+
+Recently I took the leap of becoming a mentor to aspiring individuals who run their businesses OR make transitions onto climate change jobs. Read more about where I mentor [here](http://katstam.com/i-mentoring/).
+
 ### Leadership
 
 I lead a Data Science meeting which has more than 1000 members. 
