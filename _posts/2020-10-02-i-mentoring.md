@@ -14,6 +14,21 @@ tags:
 author: estambolieva
 ---
 
+
+**20 October 2020** 
+
+Impact Mentor at [F-Lane](https://www.f-lane.com/)
+
+
+Vodafone F-lane is a startup accelerator targetted at entrepreneurs that use technology to empower women worldwide.
+
+[Here](https://www.f-lane.com/f-lane-2020/startups/) are all the 10 startups from the Fall 2020 Cohort.
+
+This acceleration program is powered by [Vodafone Institute for Society and Communications](https://www.vodafone-institut.de/de/) & [YUNUS Social Business](https://www.yunussb.com/). 
+
+---
+
+
 **October-November 2020**
 
 Judge on a HealthTech Challenge
