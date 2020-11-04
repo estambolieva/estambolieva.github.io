@@ -20,7 +20,11 @@ author: estambolieva
 
 **2020.11** *10 11 2020* <P></P>art of the panel on [Online Female Founder Roundtable: How to Get Ahead in Luxembourg](https://fi.co/event/online-female-founder-roundtable-how-to-get-ahead-in-luxembourg-luxembourg-virtual-fall-2020) organized by the [Founder Institute Luxembourg](https://fi.co/).
 
---- 
+---
+
+**2020.10** *24.10.2020* I had the pleasure of being the first entrepreneur to be intervewed after the 15-min opening ceremony in the morning at [Startup Blagoevgrad](https://startupatblagoevgrad.org/). We chatted for about 45 mins abut my journey into entrepreneurship and A.I., and then passed the ball onto the next speaker.
+
+---
 
 **2020.08** *03 10 2020* Part of the AI/ML Panel on [IvyHacks](https://ivyhacks.com/) *Building Bridges, Breaking Barriers*, which is co-hosted by 6 Ivy League Universities - Harvard, Princeton, Brown, Cornwell, Dartmouth and Columbia. I am one of 3 panelists - the other two are Yu-Ting Kuo, a Corporate Vice President in the Technology and Research Group at Microsoft, and Jordan Harrod ,a PhD Student, MIT/Harvard. [Here]() is what we chatted about.
 
