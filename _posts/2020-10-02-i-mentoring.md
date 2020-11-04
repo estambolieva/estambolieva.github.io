@@ -15,6 +15,14 @@ author: estambolieva
 ---
 
 
+**Fall 2020**
+
+Startup Mentor at the [Founder Institute Luxembourg](https://fi.co/). See the list of all mentors [here](https://fi.co/mentors).
+
+
+---
+
+
 **20 October 2020** 
 
 Impact Mentor at [F-Lane](https://www.f-lane.com/)
