@@ -26,6 +26,8 @@ Vodafone F-lane is a startup accelerator targetted at entrepreneurs that use tec
 
 This acceleration program is powered by [Vodafone Institute for Society and Communications](https://www.vodafone-institut.de/de/) & [YUNUS Social Business](https://www.yunussb.com/). 
 
+![F-Lane Impact Mentor](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/F_Lane_mentor.jpeg)
+
 ---
 
 
