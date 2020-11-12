@@ -18,7 +18,16 @@ author: estambolieva
 
 ### 2020
 
-**2020.11** *10 11 2020* Part of the panel on [Online Female Founder Roundtable: How to Get Ahead in Luxembourg](https://fi.co/event/online-female-founder-roundtable-how-to-get-ahead-in-luxembourg-luxembourg-virtual-fall-2020) organized by the [Founder Institute Luxembourg](https://fi.co/).
+**2020.11** 
+
+
+*12 11 2020* Leading the conversation for Thursdays for Impact organized by [Casa do Impacto](https://casadoimpacto.scml.pt/) - for the topic of UN SDG 13 - Climate change.
+
+The topic of the conversation is 'Tech for Climate. Work on Climate'
+
+![CdI Image](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/twi_fb_ninaspace_november.png)
+
+*10 11 2020* Part of the panel on [Online Female Founder Roundtable: How to Get Ahead in Luxembourg](https://fi.co/event/online-female-founder-roundtable-how-to-get-ahead-in-luxembourg-luxembourg-virtual-fall-2020) organized by the [Founder Institute Luxembourg](https://fi.co/).
 
 ![Fi LUX Image](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/fi_lux_2020_11.jpeg)
 
