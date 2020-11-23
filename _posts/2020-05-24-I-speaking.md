@@ -21,6 +21,9 @@ author: estambolieva
 **2020.11** 
 
 
+*25 11 2020* Part of the Coach session panel on [AI & Nature](https://www.goethe.de/prj/one/en/gea/for/cle.cfm?event_id=22024225) [Casa do Impacto](https://casadoimpacto.scml.pt/) - organized by the Goether Institut](https://www.goethe.de/ins/es/es/index.html).
+
+
 *12 11 2020* Leading the conversation for Thursdays for Impact organized by [Casa do Impacto](https://casadoimpacto.scml.pt/) - for the topic of UN SDG 13 - Climate change.
 
 The topic of the conversation is 'Tech for Climate. Work on Climate'
