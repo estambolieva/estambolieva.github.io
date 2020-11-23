@@ -52,28 +52,38 @@ I saved all of these images as screenshots - PNG images with resolution of 1920x
 
 ### 2. Glue the images together to create the GIF
 
+After I installed ImageGick on ubuntu, I opened the terminal, naviated to the folder in which I had saved my screenshots, and executed the following command:
+
+```sh
+convert -delay 1500 August_complex_True_Colour.png August_complex_SWIR.png August_complex_NDVI.png August_complex_Moisture.png August_complex_gif.gif
+```
+
+```sh
+-delay - means how many miliseconds to wait before showing the next image
+ August_complex_gif.gif - is the created GIF
+```
+
+![the created GIF](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/gif/August_complex.gif)
+
 
 ### 3. Crop the GIF to custom dimensions
 
+As you can see the top and left parts of the GIF above need cropping. This is how it was done:
+
+```sh
+convert August_complex.gif -coalesce -repage 0x0 -crop 1210x720+642+199 +repage output.gif
+```
+
+`1210x720+642+199` - I needed to describe the coordinates of the top left pixel of the new GIF, which I choose as pixel at width 642 and height 199 of the original GIF. After the top left pixel was selected, I say to Imagemagick to create a new GIF with dimensions of 1210x720 pixels.
 
 
+This is it 😊
 
 ---
 
 ### Additional Reading
 
 
-https://apps.sentinel-hub.com/eo-browser/?zoom=8&lat=40.15247&lng=-124.62891&themeId=DEFAULT-THEME&datasetId=S2L2A&fromTime=2020-09-24T00%3A00%3A00.000Z&toTime=2020-09-24T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2Fbd86bcc0-f318-402b-a145-015f85b9427e
+1. StackOverFlow - [How do I crop an naminated gif using Imagemagick](https://stackoverflow.com/questions/14036765/how-do-i-crop-an-animated-gif-using-imagemagick)
 
-https://www.fire.ca.gov/incidents/2020/
-
-https://en.wikipedia.org/wiki/2020_California_wildfires#/media/File:2020_California_wildfires.png
-
-https://stackoverflow.com/questions/14036765/how-do-i-crop-an-animated-gif-using-imagemagick
-
-GIF
-convert -delay 1500 August_complex_True_Colour.png August_complex_SWIR.png August_complex_NDVI.png August_complex_Moisture.png August_complex_gif.gif
-
-CROP GIF
-convert August_complex.gif -coalesce -repage 0x0 -crop 1210x720+642+199 +repage output.gif
 
