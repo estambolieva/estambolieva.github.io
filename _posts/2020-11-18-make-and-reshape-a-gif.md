@@ -14,7 +14,7 @@ tags:
 author: estambolieva
 ---
 
-I needed to create a 6-second GIF overlaying different satellite images on top of another so it will be easier for me to present our work of satellite image analysis. 
+I needed to create a 6-second GIF overlaying different 🛰️ satellite images on top of another so it will be easier for me to present our work of satellite image analysis. 
 
 So I needed to:
 - get screenshots of he slideshow of images for the GIF
@@ -26,6 +26,11 @@ Creating the GIF and executing all of the steps above is super simple in Ubuntu 
 
 
 ### 1. Choose all separate images	
+
+
+I decided that I wanted to take a look at the burnt area of the 2020 August Complex in California, U.S.A. Here is how the burned area is visualized by Wikipedia, for example:
+
+![2020 August Complex Burnt Area](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2020_California_wildfires.png/800px-2020_California_wildfires.png)
 
 
 ### 2. Glue the images together to create the GIF
