@@ -1,17 +1,16 @@
 ---
-date: 2020-05-24 21:17:00
+date: 2020-11-18 21:17:00
 layout: post
 title: How I made and reshaped a GIF
 subtitle:
 description: 
-image: https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/I_speaking/Katia_New_Space.png
+image: https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/gif/sat_images_1210_720p.gif
 category: portfolio
 tags:
-  - machine learning
-  - speaking
-  - space tech
-  - programming
-  - business
+  - imagegick
+  - GIF
+  - ubuntu
+  - tech
 author: estambolieva
 ---
 
