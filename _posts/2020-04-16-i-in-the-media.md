@@ -30,6 +30,8 @@ My work as a consultant to Amnesty International to build a classified to detect
 
 My work on my space tech startup covered in different online newspapers: 
 
+*27 11 2020* [Sustainable Game Changers: Meet the 3 female founders who won Women in AI's WaiACCELERATE pitch finals](https://siliconcanals.com/news/startups/female-founders-waiaccelerate/)
+
 *13 08 2020* [The Story of Nina Space](https://medium.com/@womeninai_nl/the-story-of-nina-space-b07377d3156a) in English. This article has been written and posted by the lovely people who support our journey during the [WAI Accelerate](https://www.womeninai.co/waiaccelerate) program.
 
 *15 11 2019*: [Nina Space Prevents Wildfires By Analyzing Satellite Images](https://www.siliconluxembourg.lu/nina-space-prevents-wildfires-by-analyzing-satellite-images/) in English
