@@ -1,11 +1,10 @@
 ---
-date: 2021-02-205 15:54:00
+date: 2021-02-05 15:54:00
 layout: post
 title: How to find your market size
 subtitle: while being a startup - which always make us feel like we play on the hard level
 description: 
 image: https://images.unsplash.com/photo-1605319760321-91c129fd463a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1434&q=80
-<!-- optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg -->
 category: startup
 tags:
   - market
