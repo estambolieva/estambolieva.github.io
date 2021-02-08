@@ -93,3 +93,4 @@ Carto go one step further and document their process in this [blog post](https:/
 2. [Forbes - How to effectively determine your market size](https://www.forbes.com/sites/alejandrocremades/2018/09/23/how-to-effectively-determine-your-market-size/?sh=2605f54413d8)
 3. [Use bottom=up to calculate your SOM](https://medium.com/is-that-product-management/a-strategy-to-calculate-the-market-size-tam-sam-and-som-cda0a05c77f8)
 4. [A strategy to calculate the market size: TAM, SAM, and SOM](https://medium.com/is-that-product-management/a-strategy-to-calculate-the-market-size-tam-sam-and-som-cda0a05c77f8)
+5. Alternatively, follow [a bottom-up approach to calculating TAM](https://www.youtube.com/watch?v=M_RMTC2YmXY)
