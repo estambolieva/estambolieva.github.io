@@ -30,8 +30,24 @@ Design anything on [Canva](https://www.canva.com/). You dcan create a **free** a
 
 ![Canva Custome Dimensions](https://designtlc.com/wp-content/uploads/2020/07/Canva-instruction-1200x625-1-1024x373.jpg)
 
-*Image Credit - https://designtlc.com*
+⬆️ *Image Credit - https://designtlc.com*
+
+The we make our design, and download it as a transparent PNG file. I will title *mine my_new_logo.png*. Voila - our new visual logo is ready.
 
 ---
 
 ## Convert <a name="convert"></a>
+
+
+We now have our new logo but it is not in vector format - e.g. a SVG file. Let's make this happen.
+
+Install [Imagemagic](http://manpages.ubuntu.com/manpages/trusty/man1/convert.im6.1.html) on any Linux system - for Mac and Ubuntu, for example. ❗ This will not work on Windows. 
+
+Navigate to the folder in which *mine my_new_logo.png* is and execute this command in the terminal:
+
+```sh
+convert mine my_new_logo.png mine my_new_logo.svg
+```
+
+It takes the transparent PNG file and converts it to a SVG file. Now we have our new logo in vector format which we can send to our investors, supporters, the media and any conferences we attend. 
+
