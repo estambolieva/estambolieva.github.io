@@ -16,6 +16,26 @@ author: estambolieva
 ---
 
 
+### 2021
+
+`CONFIRMED`
+
+**24-25 April 2021** Panel speaker at VenusHacks - UC Irvine’s first womxn-centric hackathon. This event is planned in collaboration with Women in Information and Computer Sciences ([WICS](https://wics.ics.uci.edu/)) and [Hack at UCI](https://hack.ics.uci.edu/).
+
+The first ever VenusHacks will be taking place virtually on April 24-25th, 2021 and will welcome over 500 female (all inclusive) college students and high school seniors to join us at our 24-hour event that includes company/educational workshops, empowering activities, and lots of coding! Our mission is to empower underrepresented groups by providing an inclusive community to foster growth and creativity in computing. 
+
+
+**20 March 2021** Speaker at the ML day of [FEMILY x imagiLabs: Girls Code!](https://www.femilysf.com/girls-code-fest) organized by [FEMILY](https://www.instagram.com/femilysf/) and [imagiLabs](https://imagilabs.com/).
+
+![Event image](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/Femily_Kat_Stam.png)
+
+
+
+**9 March 2021** Panel speaker at Women in Tech: Panel Discussion organized by [expertLead](https://expertlead.com/)
+
+---
+
+
 ### 2020
 
 **2020.11** 
