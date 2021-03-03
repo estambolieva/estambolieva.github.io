@@ -31,7 +31,11 @@ The first ever VenusHacks will be taking place virtually on April 24-25th, 2021 
 
 
 
-**9 March 2021** Panel speaker at Women in Tech: Panel Discussion organized by [expertLead](https://expertlead.com/)
+**9 March 2021** Panel speaker at Women in Tech: Panel Discussion organized by [expertLead](https://expertlead.com/) - here is the [link](https://landing.expertlead.com/en/women_in_tech/career_start) to the event. 
+
+In episode 1 of this series we will start by answering the question: "How do I kick off my career in tech?" Together with four talented young female tech freelance professionals we will discuss the path that led to a career in tech and what challenges awaited them. 
+
+![Event image](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/expertLead.png)
 
 ---
 
