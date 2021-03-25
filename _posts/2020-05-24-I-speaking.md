@@ -23,9 +23,15 @@ author: estambolieva
 
 `PAST`
 
-**Bla**
+**25 03 2021 ** A panelist on Collective Wisdom of Entrepreneush, Accelerators & VCs by [Amsterdam Capital House](https://www.amsterdamcapitalhouse.co/) and powered by [RISE]().
+
+😱💃🏽'The impact of COVID on the state of gender equality in the European startup & VC ecosystem',
+🦄🌍‘Fail to Scale: personal learnings from the entrepreneurial journey”
+💶‘The Funny Money situation: What’s that whole dilemma about women & funding?'
+🍳💰'From Kitchen Table to the Investor’s Table: what’s the secret ingredient of success?'.
 
 ![MP4 promo video](https://github.com/estambolieva/estambolieva.github.io/raw/master/assets/gif/Talk_Amesterdam_Capital_house.mp4)
+
 
 **24-25 April 2021** Panel speaker at VenusHacks - UC Irvine’s first womxn-centric hackathon. This event is planned in collaboration with Women in Information and Computer Sciences ([WICS](https://wics.ics.uci.edu/)) and [Hack at UCI](https://hack.ics.uci.edu/).
 
