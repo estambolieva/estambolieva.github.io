@@ -20,6 +20,13 @@ author: estambolieva
 
 `CONFIRMED`
 
+
+`PAST`
+
+**Bla**
+
+![MP4 promo video](https://github.com/estambolieva/estambolieva.github.io/raw/master/assets/gif/Talk_Amesterdam_Capital_house.mp4)
+
 **24-25 April 2021** Panel speaker at VenusHacks - UC Irvine’s first womxn-centric hackathon. This event is planned in collaboration with Women in Information and Computer Sciences ([WICS](https://wics.ics.uci.edu/)) and [Hack at UCI](https://hack.ics.uci.edu/).
 
 The first ever VenusHacks will be taking place virtually on April 24-25th, 2021 and will welcome over 500 female (all inclusive) college students and high school seniors to join us at our 24-hour event that includes company/educational workshops, empowering activities, and lots of coding! Our mission is to empower underrepresented groups by providing an inclusive community to foster growth and creativity in computing. 
