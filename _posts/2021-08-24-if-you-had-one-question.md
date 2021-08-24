@@ -18,7 +18,6 @@ This is the choice of a question of Asen who I chatted to some minutes ago.
 
 > We have two numbers - 36 and 48. Write a function which receives as an input one of these numbers, and returns the other. **Important**: You are not allowed to use any of these - if clauses, loops and data structures. 
 
-### If you had just one question
 
 
 ### Here are 3 example solutions
@@ -38,6 +37,9 @@ Input: 48, Output: 36.
 [2. Use a string](#sol-string)
 
 [3. Use text files](#sol-text-file)
+
+
+Here is the logic and pseudo code for the threee solutions :arrow_down:
 
 
 #### Use sum <a name="sol-disk-arrayr"></a>
