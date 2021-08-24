@@ -1,9 +1,9 @@
 ---
 date: 2021-08-24 11:42:00
 layout: post
-title: Job interviewer: If you have only 1 question
-subtitle: What to ask at a technical interview
-description: 
+title: Job interviewer - If you have only 1 question
+subtitle: 
+description: What to ask at a technical interview
 image: https://images.unsplash.com/photo-1602516297586-312f705402cb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80
 category: startup
 tags:
