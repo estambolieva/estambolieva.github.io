@@ -35,7 +35,7 @@ The Central Asia Nobel Fest is a motivating intellectual platform where Nobel Pr
 
 **18 August 2021** A panelist at `Mentoring for Startups: the art of learning to fail forward` organized by [Manatee Mentor](https://www.manatee-mentor.com/)
 
-![Promo Image]()
+![Promo Image](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/I_speaking/MM_Mentoring_for_Startups_.jpeg)
 
 
 **25 May 2021** A panelist on Collective Wisdom of Entrepreneush, Accelerators & VCs by [Amsterdam Capital House](https://www.amsterdamcapitalhouse.co/) and powered by [RISE]().
