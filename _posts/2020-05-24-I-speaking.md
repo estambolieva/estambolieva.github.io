@@ -21,9 +21,24 @@ author: estambolieva
 `CONFIRMED`
 
 
+**26-29 October 2021** A Keynote Speaker at [The III Central Asia Nobel Fest](https://nobel-fest.inpolicy.net), Kazakhstan
+
+The Central Asia Nobel Fest is a motivating intellectual platform where Nobel Prize Laureates, distinguished scientists, and industry professionals engage in discussions and debates to exchange knowledge and expertise with students and young scholars from Central Asia and the Caucasus region.
+
+
+
+**14 September 2021** A Keynote Speaker at [Space Forum](https://www.spaceforum.com/), Luxembourg. The topic of the talk - `Earth observation to serve humanity's greatest challenges`
+
+
 `PAST`
 
-**25 03 2021 ** A panelist on Collective Wisdom of Entrepreneush, Accelerators & VCs by [Amsterdam Capital House](https://www.amsterdamcapitalhouse.co/) and powered by [RISE]().
+
+**18 August 2021** A panelist at `Mentoring for Startups: the art of learning to fail forward` organized by [Manatee Mentor](https://www.manatee-mentor.com/)
+
+![Promo Image]()
+
+
+**25 May 2021** A panelist on Collective Wisdom of Entrepreneush, Accelerators & VCs by [Amsterdam Capital House](https://www.amsterdamcapitalhouse.co/) and powered by [RISE]().
 
 😱💃🏽'The impact of COVID on the state of gender equality in the European startup & VC ecosystem',
 🦄🌍‘Fail to Scale: personal learnings from the entrepreneurial journey”
