@@ -4,7 +4,7 @@ layout: post
 title: Sales for non-sales people
 subtitle:
 description: 
-image: https://images.unsplash.com/photo-1515104882246-521e5ba18f5e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+image: https://images.unsplash.com/photo-1616587226157-48e49175ee20?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80
 category: startup
 tags:
   - sales
@@ -48,4 +48,7 @@ Overall, my conversation with Helga left me feeling like I am in a house. There 
 1. Our product means NOTHING. The only thing that matters in WHAT DOES IT DO FOR THEM (the client).
 2. Spend a lot of time in the DISCOVERY stage.
 3. Design your 1 sentence pitch to be a good shot in the dark.
+
+Image Credit:
+<a href="https://unsplash.com/@linkedinsalesnavigator">LinkedIn Sales Solutions</a> on [Unsplash](https://unsplash.com/).
 
