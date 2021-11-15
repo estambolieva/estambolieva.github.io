@@ -1,5 +1,5 @@
 ---
-date: 2021-11-05 21:344:00
+date: 2021-11-05 21:34:00
 layout: post
 title: Sales for non-sales people
 subtitle:
