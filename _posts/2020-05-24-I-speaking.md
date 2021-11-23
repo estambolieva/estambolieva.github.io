@@ -18,7 +18,12 @@ author: estambolieva
 
 ### 2021
 
-`CONFIRMED`
+
+
+`PAST`
+
+
+**22 November 2021** [GEO Week 2021](https://www.earthobservations.org/geoweek2021.php). Pitching our product - made by [Cosmos Pics](https://cosmos.pics/). 
 
 
 **26-29 October 2021** A Keynote Speaker at [The III Central Asia Nobel Fest](https://nobel-fest.inpolicy.net), Kazakhstan
@@ -26,11 +31,18 @@ author: estambolieva
 The Central Asia Nobel Fest is a motivating intellectual platform where Nobel Prize Laureates, distinguished scientists, and industry professionals engage in discussions and debates to exchange knowledge and expertise with students and young scholars from Central Asia and the Caucasus region.
 
 
+**15 October 2021** Casa do Impacto 3rd Anniversary. Pitching our startup [Cosmos Pics](https://cosmos.pics/). 
+
+
+
+**30 September 2021** Startup Lisboa Demo Day 2021. Pitching our startup [Cosmos Pics](https://cosmos.pics/). Find my 4-min presentation at 43:53 in [this Youtube video](https://youtu.be/gCvVFBQn2fk?t=2633).
+
+![Img](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/I_speaking/sulx_demo_day_2021.png)
+
+
 
 **14 September 2021** A Keynote Speaker at [Space Forum](https://www.spaceforum.com/), Luxembourg. The topic of the talk - `Earth observation to serve humanity's greatest challenges`
 
-
-`PAST`
 
 
 **18 August 2021** A panelist at `Mentoring for Startups: the art of learning to fail forward` organized by [Manatee Mentor](https://www.manatee-mentor.com/)
