@@ -23,6 +23,10 @@ author: estambolieva
 `PAST`
 
 
+**24 November 2021** Cosmos Pics presentation at [ESA BIC PT 7th Anniversary](https://ipn.pt/noticias/noticia/3055?uri=%2F)
+
+![ESA BIC 7th Anniversary](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/I_speaking/ESA_BIC_7th_anniversiry.png)
+
 **22 November 2021** [GEO Week 2021](https://www.earthobservations.org/geoweek2021.php). Pitching our product - made by [Cosmos Pics](https://cosmos.pics/). 
 
 
