@@ -12,23 +12,31 @@ tags:
 author: estambolieva
 ---
 
-Second time! Second time the charm! [Cosmos Pics](https://cosmos.pics) - the second space tech company which I lead just got accepted into the [ESA BIC PT incubation program](https://space.ipn.pt/esa/esa-business-incubation-centre/).
+What you are seeing on the picture above is the view of the rooftop of my office building. The view opens up to Baixa in the centre of Lisbon towards the hill with the castle São Jorge and the river Tagus which flows into the Atlantic ocean some 20 km west from here.
 
-Time to celebrate - 🎊 🎊 🎊 🥳 🎊 🥳 🥳 🎈🎈🎈. Big time!
+I started working in this building almost 3 years ago, and I thought that I cannot get a better office - ever! Here the view of the rooftop is breathtaking, the small garden on the ground floor offers a quiet place to take phone calls from under the trees, and most importantly - the other companies which work from here show respect to each other every day by talking quietly and taking big meetings to the meeting rooms so no one disturbs the work of others. Wow! This was a dream come true ... and it still is 😊.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6869320167239802880" allowfullscreen="" title="Embedded post" width="504" height="521" frameborder="0"></iframe>
+What 2021 helped me discover though is that it can get better! And it did. I had the pleasure of working remotely from Mexico (even that the time zone is not kind to remote EU workers who want to do their workation there) and from Madeira - an autonomous region of Portugal, located in the Atlantic ocean some 1000s of kilometres off the coast of Morocco. 
 
-This is phenomenal, this is special, this is very personal. I am a huge fan of space, and having a second project supported by the European Space Agency's Business Incubator is beyond a dream come true. It is my new small personal piece of happiness. And I wanted to share it with you so you get energized by my joy and feel its warmth spearing around your face and ey
+Here is how the view of my Mexican office looked like - the office cat was not too happy on joining me for this one so the picture ended up blurry 😂.
 
-I feel extremely grateful to the team and jury who selected us to be a part of the program - especially after the first try did not go as planned. If you want to read about [how my previous company, which was also supported by ESA BIC PT imploded](https://katstam.com/how-i-walked_away-from-eur-152500/) - click the link :). I feel grateful to all the people who supported me through the last 3 years so I come back to this - this moment! Thank you.
+![Mexican office](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/remote_office.png)
 
-> Good luck! For whatever you want to achieve!
+And this was just an hour or so away from it!
+
+![Close to Mexican office](https://raw.githubusercontent.com/estambolieva/estambolieva.github.io/master/assets/img/uploads/close_to_remote_office.png)
+
+The moral of the story here is that if your life allows at this moment, you could board a plane or a train and go work from a place which you have always wanted to visit for 2 weeks, or even a month.
+
+It is important to have good work discipline! I needed to start my work day at 7:30 a.m. every morning with my meetings starting at 8 a.m. This is not fun when you are in Mexico and leave the great outdoor place you had been the evening before because you need to catch good sleep before you wake up in the morning. However this is so much better than staying at home and going to the office you have been every work day for the last 3 years.
+
+If you find a great remote office you enjoyed your stay at, I would love to hear from you about it. Find my [contact details here](https://katstam.com/about) and drop me an email! I look forward to it 😀
 
 ## Key Takeaways
 
-1. Be patient
-2. Be persistent
-3. Never give up
+1. Choose where you want to go/visit
+2. Have work discipline
+3. Work from anywhere
 
-Image Credit: [Katia Stambolieva](https://katstam.com.about)
+Image Credit: [Katia Stambolieva](https://katstam.com/about)
 
