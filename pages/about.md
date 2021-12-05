@@ -11,7 +11,7 @@ permalink: /about/
 
 > Hi, my name is Ekaterina Stambolieva and people call me Katia. At the age of 30 I achieved my childhood dream to become a business woman. My goal for the next 30 years is to become the next Marie Curie. I win 2 Nobel Prizes - one in economics, and one in Peace.
 
-![Intro Video](https://www.youtube.com/watch?v=NpEaa2P7qZI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NpEaa2P7qZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I am a serial impact entrepreneur, and a female space tech founder. 
 
