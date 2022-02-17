@@ -11,7 +11,17 @@ permalink: /about/
 
 > Hi, my name is Ekaterina Stambolieva and people call me Katia. At the age of 30 I achieved my childhood dream to become a business woman. My goal for the next 30 years is to become the next Marie Curie. I win 2 Nobel Prizes - one in economics, and one in Peace.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NpEaa2P7qZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+⬇⬇⬇⬇⬇
+
+I have moderated and spoken at more than 24 events in the last 2 years. Book me as a speaker at your conference or corporate event here 🎤  -> https://calendly.com/katstam/book-me-as-a-speaker
+
+I have been writing content for the last 10 years. Book me as a guest writer for your next article or blog here 🖊️ 📖 -> https://calendly.com/katstam/book-me-as-a-speaker
+
+I have been teaching for the last 9 years. My latest course is a general introduction to satellite images. Enroll for the course here -> https://cosmos.pics/course 
+
+⬆⬆⬆⬆⬆
+
+--- 
 
 I am a serial impact entrepreneur, and a female space tech founder. 
 
